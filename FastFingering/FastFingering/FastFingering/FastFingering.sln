@@ -2,7 +2,7 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
 # SharpDevelop 4.4
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFingering", "FastFingering\FastFingering.csproj", "{23E0C0C2-42BC-46EF-A75A-047B72D00570}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastFingering", "FastFingering.csproj", "{23E0C0C2-42BC-46EF-A75A-047B72D00570}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
