@@ -1,0 +1,7 @@
+D:\ShardDevelop\FastFingering\FastFingering\obj\Debug\FastFingering.csprojResolveAssemblyReference.cache
+D:\ShardDevelop\FastFingering\FastFingering\obj\Debug\FastFingering.csproj.GenerateResource.Cache
+D:\ShardDevelop\FastFingering\FastFingering\bin\Debug\FastFingering.exe
+D:\ShardDevelop\FastFingering\FastFingering\bin\Debug\FastFingering.pdb
+D:\ShardDevelop\FastFingering\FastFingering\obj\Debug\FastFingering.MainForm.resources
+D:\ShardDevelop\FastFingering\FastFingering\obj\Debug\FastFingering.exe
+D:\ShardDevelop\FastFingering\FastFingering\obj\Debug\FastFingering.pdb
